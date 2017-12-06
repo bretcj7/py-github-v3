@@ -21,7 +21,7 @@ py_test.py ...
 =====3 Tests======
 ```
 
-- Modify app.py and replace '<user>' and '<password>' with real git authenticated user/password
+- Modify app.py and replace `user_name` and `user_pwd` with real git authenticated user/password
 ```python
 user_name = 'johndoe' # CHANGE ME!
 user_pwd = '123abc' # CHANGE ME!
