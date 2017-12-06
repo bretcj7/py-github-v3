@@ -27,4 +27,4 @@ user_name = 'johndoe' # CHANGE ME!
 user_pwd = '123abc' # CHANGE ME!
 ```
 
-- Run app.py
+- Run **app.py**
