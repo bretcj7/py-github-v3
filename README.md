@@ -1,19 +1,19 @@
-#Python github API V3
+# Python github API V3
 
 Python script to get all pull requests from the lodash organization.  This will include getting pull requests from all repositories under the lodash org.
 
 This uses Basic Authentication for ease of use as a starter to learn the API.
 
-###Libraries:
+### Libraries:
 - pandas [http://pandas.pydata.org/]
 - requests [http://docs.python-requests.org/en/master/]
 - pytest [https://docs.pytest.org/en/latest/contents.html]
 
-###Requirements:
+### Requirements:
 - python v3.6
 - pip3
 
-###Sample Usage:
+### Sample Usage:
 - Run unit tests
 ```python
 >> pytest
