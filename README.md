@@ -8,7 +8,6 @@ This uses Basic Authentication for ease of use as a starter to learn the API.
 - pandas [http://pandas.pydata.org/]
 - requests [http://docs.python-requests.org/en/master/]
 - pytest [https://docs.pytest.org/en/latest/contents.html]
-- re (built-in regular expression module)
 
 ### Requirements:
 - python v3.6
